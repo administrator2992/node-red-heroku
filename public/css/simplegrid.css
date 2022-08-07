@@ -31,8 +31,6 @@ body {
 
 .grid {
 	width: 100%;
-	max-width: 1155px;
-	min-width: 755px;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0px 75px 0 75px;
