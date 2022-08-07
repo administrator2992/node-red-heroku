@@ -31,31 +31,6 @@ a.button:hover {
 .row9 {
     background: #676767;
 }
-.footer {
-    background: #333;
-}
-
-.footer .grid {
-    color: #eee;
-    padding: 20px 0;
-    font-family: Arial;
-}
-.footer a {
-    color: #eee;
-}
-
-.footer .content {
-    height: auto;
-    min-height: 0;
-    margin: 20px auto;
-}
-
-.footer .headline {
-    margin: 80px auto 20px auto;
-}
-.footer {
-    text-align: center;
-}
 
 .ets-link {
     margin: 10px 0px;
@@ -164,7 +139,6 @@ a.button:hover {
 }
 .header-content {
     width: 100%;
-  max-width: 1155px;
   min-width: 755px;
   margin: 0 auto;
 }
