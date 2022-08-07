@@ -120,6 +120,7 @@ a.button:hover {
 .header-content {
     width: 100%;
   margin: 0 auto;
+  position: fixed;
 }
 .header-content .logo {
     vertical-align: middle;
@@ -127,7 +128,6 @@ a.button:hover {
 }
 .header-content a {
     color: #999;
-    position: fixed;
 }
 .header-content ul {
     float: right;
