@@ -115,11 +115,11 @@ a.button:hover {
     padding: 0px 10px;
     width: auto;
     height: auto;
-    position: absolute;
     background: #333;
 }
 .header-content {
     width: 100%;
+    height: auto;
   margin: 0 auto;
 }
 .header-content .logo {
