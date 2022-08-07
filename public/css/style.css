@@ -6,6 +6,7 @@ a {
 }
 .title, .row2, .nodes {
     background: #eee;
+    height: 100%;
 }
 
 .blurb a {
