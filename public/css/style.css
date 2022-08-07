@@ -57,9 +57,6 @@ a.button:hover {
     text-align: center;
 }
 
-.row3 .feature, .row4 .feature, .row5 .feature {
-    border: none;
-}
 .feature img {
     max-width: 445px;
     width: 100%;
