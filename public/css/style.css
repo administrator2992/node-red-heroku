@@ -62,7 +62,7 @@ a.button:hover {
     width: 100%;
 }
 .title .content {
-    height: auto;
+    height: 100%;
     text-align: center;
 }
 .title h1 {
@@ -113,13 +113,12 @@ a.button:hover {
     line-height: 50px;
     color: #999;
     padding: 0px 10px;
+    width: auto;
     height: 50px;
     background: #333;
 }
 .header-content {
     width: 100%;
-  max-width: 1155px;
-  min-width: 755px;
   margin: 0 auto;
 }
 .header-content .logo {
