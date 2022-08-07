@@ -6,7 +6,7 @@
   Site - dallasbass.com
 */
 
-*, *:after, *:before {
+*, *:before {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -35,13 +35,6 @@ body {
 	overflow: hidden;
 	padding: 0px 75px 0 75px;
 }
-
-.grid:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
 
 /* Content Columns */
 
