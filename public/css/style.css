@@ -6,7 +6,6 @@ a {
 }
 .title, .row2, .nodes {
     background: #eee;
-    height: 100%;
 }
 
 .blurb a {
@@ -23,13 +22,6 @@ a.button {
 }
 a.button:hover {
     background: #7F4545;
-}
-.row3, .row4, .row5 {
-    background: #fff;
-}
-
-.row9 {
-    background: #676767;
 }
 
 .content {
@@ -65,9 +57,6 @@ a.button:hover {
     text-align: center;
 }
 
-.row3 .feature, .row4 .feature, .row5 .feature {
-    border: none;
-}
 .feature img {
     max-width: 445px;
     width: 100%;
