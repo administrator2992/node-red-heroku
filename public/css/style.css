@@ -127,6 +127,7 @@ a.button:hover {
 }
 .header-content a {
     color: #999;
+    position: fixed;
 }
 .header-content ul {
     float: right;
